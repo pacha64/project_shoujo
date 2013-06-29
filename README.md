@@ -1,4 +1,4 @@
-project_shoujo
+Project Shoujo
 ==============
 
 Project Shoujo aims to be a web-based customizable dating simulator. It has an easy-to-use editor where players can create their characters and add content, while other players can play with them. I stopped developing this because I couldn't find artists to make a first beta, and I have been busy with other things.
