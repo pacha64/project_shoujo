@@ -1,0 +1,122 @@
+.manage-root-buttons
+{
+	text-align: center;
+	font-size:28px;
+}
+.manage-root-buttons a
+{
+	color:lightblue;
+}
+.manage-root-buttons a :hover
+{
+	font-weight: bold;
+}
+textarea
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#menu-container li
+{
+	cursor:pointer;
+}
+#menu-container li a
+{
+	color:white;
+}
+#information-avatar
+{
+	max-width: 128px;
+	max-height: 128px;
+}
+#information-description
+{
+	height:88px;
+	line-height:22px;
+	width:600px;
+}
+#information-name
+{
+	width:250px;
+}
+#manage-back
+{
+	position:absolute;
+	top:2px;
+	left:2px;
+}
+.deleted-variable, .disabled-anchor
+{
+	text-decoration:line-through;
+	color:gray;
+}
+#variables-modify-user-defined-list
+{
+	width:200px;
+}
+input
+{
+	width:200px;
+}
+#status-add-new
+{
+	margin-left: 10px;
+}
+#manage-menu input[type=text]
+{
+	width:320px;
+}
+#manage-activities select, #menu-modify-option-activity-container select, #manage-images-modify-delete-faces-select
+{
+	width:200px;
+}
+input[type=checkbox] .checkbox
+{
+	width:12px;
+	height:12px;
+}
+.new-activity-style-box, .modify-activity-sortable-placeholder
+{
+	width:85%;
+	margin:15px;
+	padding:15px;
+	border:1px white solid;
+	background-color:black;
+	position:relative;
+}
+.new-activity-style-box p
+{
+	margin:0px 5px;
+	
+}
+.not-saved
+{
+	color:red;
+}
+.saved
+{
+	color:#83F52C; /* neon green */
+}
+.disabled-activity
+{
+	background-color: grey;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	position: absolute;
+	top:0px;
+	left:0px;
+}
+.disabled-activity
+{
+	font-size:30px;
+	color:white;
+	text-align: center;
+}
+.modify-activity-sortable-placeholder
+{
+	border:2px solid #83F52C; /* neon green */
+	background-color: #417a16;
+}
+#current-activity-container
+{
+	padding: 15px 0px;
+}
